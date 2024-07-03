@@ -20,7 +20,7 @@ The Catholic University of Korea
 ## Status :
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=known)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knana6)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=known)](https://solved.ac/profile/known)
