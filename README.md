@@ -1,8 +1,8 @@
 # Known (knana6)
 
 ## Profile : 
-- Dept. of Biomedical-Chemical Engineering 
-  The Catholic University of Korea
+Dept. of Biomedical-Chemical Engineering 
+The Catholic University of Korea
 
 <div align="center">
   <a href="mailto:hzsdiary61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
