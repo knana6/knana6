@@ -1,4 +1,4 @@
-# Known (knana6)
+# Known Lab
 
 ## Profile : 
 Dept. of Biomedical-Chemical Engineering 
