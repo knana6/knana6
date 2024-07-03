@@ -29,41 +29,28 @@ The Catholic University of Korea
 </br>
 
 ## Plan :
-A. 벡엔드 취업 준비
-- 1. 프로그래밍 언어 학습 (자바)
-  2. 웹/API 개발 프레임워크 학습 (스프링 부트)
-  3. 데이터베이스 학습 (MySQL, MariaDB) 
-  4. 클라우드 서비스 학습 (도커, 쿠버네티스) + 배포(AWS)
-  5. 웹 보안 기술 학습 (http, https)
+A. Startup
 
-B. 인공지능 공부하기
-- 청각장애인을 위한 서비스 개발 (RNN : STT, TTS)
-- 시각장애인을 위한 서비스 개발 (CNN : ... )
+B. Chem
 
-C. 사이버수사대 or 검찰수사관
-- 경찰청/자료실/문제및정답/
-- 검찰(...)
+C. Influencer
 
 </div>
 </br>
 
 ## To do list :
-1학기
-- 졸업작품 포트폴리오
-- 정보처리기사 취득
-  (2024-02-21 필기합격)
+1-1
+- front :react
+  
 
-여름방학
-- 계절학기수강 & 부트캠프진행
-- 웹사이트 호스팅(AWS 덤프)
-- 미니서버 가동 (AWS 없이, 공유기 구매)
+SV
+- python
+- startup camp
+  
 
-2학기(조기졸업v)
-- 프로그래머스문제풀이 & 포폴완성
-- 취업 준비
-
-겨울방학 
-- 취업 성공 
+1-2
+- front
+- back
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
