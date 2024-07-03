@@ -1,7 +1,7 @@
 # Known Lab
 
 ## Profile : 
-Dept. of Biomedical-Chemical Engineering 
+Dept. of Biomedical-Chemical Engineering, 
 The Catholic University of Korea
 
 <div align="center">
