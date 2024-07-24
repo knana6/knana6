@@ -28,29 +28,34 @@ The Catholic University of Korea
 </div>
 </br>
 
-## Plan :
-A. Startup
+## Plan 
+A. Startup, Developer
+- 1. Taxi service project (24.7~8)
+- 1. Orphange: School competition (24.?)
+- 2. SeAH contest (25.5)
+- 2. ASAN competition (25.5)
+     
+B. Chem, bio
 
-B. Chem
 
-C. Influencer
 
 </div>
 </br>
 
-## To do list :
+## Programming Languages & Tools
 1-1
-- front :react
+- coma :react
   
 
 SV
 - python
-- startup camp
+- startup: Figma (UI/UX)
+- startup: CSS, HTML, react
   
 
 1-2
-- front
-- back
+- c
+  
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
