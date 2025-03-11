@@ -1,8 +1,8 @@
 # Known Lab🍎
 
 ## Profile : 
-Dept. of Biomedical-Chemical Engineering, 
-The Catholic University of Korea
+Dept. of Tesl & AI
+Sookmyung Wonens' University, Korea
 
 <div align="center">
   <a href="mailto:hzsdiary61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
@@ -35,7 +35,7 @@ A. Startup, Developer
 - 2. SeAH contest (25.5)
 - 2. ASAN competition (25.5)
      
-B. Chem, bio
+B. 
 
 
 
@@ -43,19 +43,15 @@ B. Chem, bio
 </br>
 
 ## Programming Languages & Tools
-1-1
+2024
 - coma :react
-  
-
-SV
 - python
 - startup: Figma (UI/UX)
 - startup: CSS, HTML, react
+- self study; Interactive web
   
-
-1-2
-- c
-  
+2025
+- python
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
