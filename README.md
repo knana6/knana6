@@ -1,7 +1,7 @@
 # Known Lab🍎
 
 ## Profile : 
-Dept. of Tesl & AI
+Dept. of Tesl & AI /
 Sookmyung Wonens' University, Korea
 
 <div align="center">
