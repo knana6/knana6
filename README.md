@@ -1,7 +1,7 @@
 # Known Lab🍎
 
 ## Profile : 
-Dept. of Tesl & AI (예정)
+Dept. of Tesl & AI (27~)
 
 Sookmyung Womens' University, Korea
 
