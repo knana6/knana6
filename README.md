@@ -49,6 +49,8 @@ B.
   
 2025
 - python
+- generative AI (gpt API) + streamlit
+- WEB : JS, HTML, CSS
 
 <!--
 **adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
