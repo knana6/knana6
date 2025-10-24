@@ -11,7 +11,7 @@ Sookmyung Womens' University, Korea
 </br>
   
 ## My Tech Stack :
-Python, Javaccript, HTML, CSS
+Python, C++, Javaccript, HTML, CSS
 
 
 ## Status :
