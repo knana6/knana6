@@ -1,7 +1,7 @@
 # Known Lab🍎
 
 ## Profile : 
-Dept. of English & Computer Science (25~)
+Dept. of Computer Science
 
 Sookmyung Womens' University, Korea
 
