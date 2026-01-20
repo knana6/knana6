@@ -12,6 +12,7 @@ Sookmyung Womens' University, Korea
   
 ## My Tech Stack :
 Python, C++, Javaccript, HTML, CSS
+Django, AWS, PostgreSQL, MySQL
 
 
 ## Status :
@@ -27,13 +28,8 @@ Python, C++, Javaccript, HTML, CSS
 
 ## Plan 
 A. Startup, Developer
-- 1. Taxi service project (24.7~8)
-- 1. Orphange: School competition (24.?)
-- 2. SeAH contest (25.5)
-- 2. ASAN competition (25.5)
      
-B. 
-
+B. Project Manager
 
 
 </div>
@@ -51,9 +47,9 @@ B.
 - python
 - generative AI (gpt API) + streamlit
 - WEB : JS, HTML, CSS
+- PIRO 24th : Django, AWS, MySQL
 
 <!--
-**adorahelen/adorahelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
